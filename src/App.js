@@ -30,7 +30,8 @@ class App extends Component {
     return (
       <div>
         <p>what do you want in your finances?</p>
-        <p>you gotta say it younnooo</p>
+        <p>you gotta say it younnooo666</p>
+        <p>what do you want</p>
       </div>
 
 
